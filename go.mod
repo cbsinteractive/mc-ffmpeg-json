@@ -1,5 +1,5 @@
-module github.com/as/ffmpeg-json
+module github.com/cbsinteractive/mc-ffmpeg-json
 
-go 1.18
+go 1.21
 
-require github.com/as/log v0.0.7 // indirect
+require github.com/cbsinteractive/mc-log v0.0.0-20250701145422-987218416d5c

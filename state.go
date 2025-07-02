@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/as/log"
+	log "github.com/cbsinteractive/mc-log"
 )
 
 var (
