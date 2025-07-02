@@ -1,2 +1,2 @@
-github.com/as/log v0.0.7 h1:h9gGAwEw00JAt/8d29gl2bD2AS6T7PE/zKhaL/p69A4=
-github.com/as/log v0.0.7/go.mod h1:urp1lQfFuIGmcdEH1A9W40ilVjhUj2MQCQLqNmwH0Dk=
+github.com/cbsinteractive/mc-log v0.0.0-20250701145422-987218416d5c h1:YECZIy82b++Muz9+wooG9Y+q0IlYfJTCTO0F9ZHXUwY=
+github.com/cbsinteractive/mc-log v0.0.0-20250701145422-987218416d5c/go.mod h1:kc1iU90xWFpAXey6ZdOJ+oC5psopzhp83HF8FonxA3M=
